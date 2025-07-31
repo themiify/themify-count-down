@@ -13,17 +13,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Mohammedfouadd/web_component.git"
+    "url": "https://github.com/themiify/themify-count-down.git"
   },
   "keywords": [
     "web-component",
     "vanilla-js",
     "custom-elements"
   ],
-  "author": "Mohammed Fouad",
+  "author": "Themify",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Mohammedfouadd/web_component/issues"
+    "url": "https://github.com/themiify/themify-count-down/web_component/issues"
   },
-  "homepage": "https://github.com/Mohammedfouadd/web_component#readme"
+  "homepage": "https://github.com/themiify/themify-count-down/web_component#readme"
 }
